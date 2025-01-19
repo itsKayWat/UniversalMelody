@@ -1,0 +1,15 @@
+MelodyMaster/
+│
+├── main.py              # Main application file
+├── requirements.py      # Requirements installer
+├── README.md           # Project documentation
+├── LICENSE             # License file
+│
+├── downloads/          # Directory for downloaded music
+│   └── .gitkeep
+│
+├── assets/            # Application assets
+│   └── icon.png       # Application icon
+│
+└── docs/             # Additional documentation
+    └── screenshots/  # Application screenshots
